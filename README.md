@@ -1,4 +1,4 @@
-# 📌 Spatial Analysis of Malaria Epidemiology in Kenya 🇰🇪
+# Spatial Analysis of Malaria Epidemiology in Kenya 🇰🇪
 
 ## **Project Overview**
 
