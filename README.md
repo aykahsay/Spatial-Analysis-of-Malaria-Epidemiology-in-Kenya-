@@ -8,7 +8,7 @@ The findings show that malaria in Kenya is a **spatially dependent phenomenon**,
 
 ---
 
-## **🔍 Key Objectives**
+## **Key Objectives**
 
 ### **1. Visualization**
 
@@ -27,7 +27,7 @@ The findings show that malaria in Kenya is a **spatially dependent phenomenon**,
 
 ---
 
-## **📊 Data Sources**
+## **Data Sources**
 
 | Dataset Type           | Source                      | Description                             |
 | ---------------------- | --------------------------- | --------------------------------------- |
@@ -54,7 +54,7 @@ The analysis is conducted in **R** using the following libraries:
 
 ## **📈 Key Findings**
 
-### **1️⃣ Spatial Clustering**
+### **Spatial Clustering**
 
 * **Global Moran’s I = 0.35 (p < 0.001)**
   → Strong positive spatial autocorrelation.
@@ -70,11 +70,11 @@ The analysis is conducted in **R** using the following libraries:
 
 ---
 
-### **2️⃣ Spatial Regression Modeling**
+### **Spatial Regression Modeling**
 
 #### **Best Model:**
 
-✅ **Spatial Lag Model (SLM)**
+**Spatial Lag Model (SLM)**
 Lowest AIC = **475.67**
 
 #### **Significant Predictors**
@@ -87,7 +87,7 @@ Lowest AIC = **475.67**
 
 ---
 
-## **📁 Repository Structure**
+## **Repository Structure**
 
 ```
 spatial-malaria-kenya/
@@ -111,7 +111,7 @@ spatial-malaria-kenya/
 
 ---
 
-## **💻 How to Run This Project**
+## **How to Run This Project**
 
 1. **Clone the repository**
 
